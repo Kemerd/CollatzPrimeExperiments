@@ -1,0 +1,9 @@
+﻿  Experiments.cpp
+C:\Users\Donny\source\repos\CollatzPrimeExperiments\Experiments.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Donny\source\repos\CollatzPrimeExperiments\Experiments.cpp(128): warning C4715: 'collatz': not all control paths return a value
+C:\Users\Donny\source\repos\CollatzPrimeExperiments\Experiments.cpp(184): warning C4715: 'both': not all control paths return a value
+  All 174 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CollatzPrimeExperiments.vcxproj -> C:\Users\Donny\source\repos\CollatzPrimeExperiments\Release\CollatzPrimeExperiments.exe
